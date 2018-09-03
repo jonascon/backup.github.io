@@ -6,6 +6,9 @@ Kapitel 1.2. och 1.3.
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%202.pdf">Övning 2</a> <br/> 
 Kapitel 1.3.
 ## Seminarier: 
+<a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarie%201.pdf">Seminarium 1</a> <br/> 
+Kapitel 1.2. och 1.3.
+
 
 ## Annat:
  
