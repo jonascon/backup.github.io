@@ -18,6 +18,10 @@ Kapitel 3.2. och 3.3.
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarie%201.pdf">Seminarium 1</a> <br/> 
 Kapitel 1.2. och 1.3.
 
+<a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarium%202.pdf">Seminarium 2</a> <br/> 
+Kapitel 2.2./3.2./3.3.
+
+
 
 ## Annat:
  
