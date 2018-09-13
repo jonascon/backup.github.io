@@ -15,7 +15,7 @@ Kapitel 2.1. och 2.2.
 Kapitel 3.2. och 3.3.
 
 
-<a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%205.pdf">Övning 4</a> <br/> 
+<a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%205.pdf">Övning 5</a> <br/> 
 Linjärt oberoende och determinanter.
 
 
