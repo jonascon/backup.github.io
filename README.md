@@ -19,6 +19,9 @@ Kapitel 3.2. och 3.3.
 Linjärt oberoende och determinanter.
 
 
+<a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%206.pdf">Övning 6</a> <br/> 
+Determinanter, areor och volymer.
+
 
 ## Seminarier: 
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarie%201.pdf">Seminarium 1</a> <br/> 
