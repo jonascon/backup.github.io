@@ -22,6 +22,8 @@ Linjärt oberoende och determinanter.
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%206.pdf">Övning 6</a> <br/> 
 Determinanter, areor och volymer.
 
+<a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%207.pdf">Övning 7</a> <br/> 
+Egenvärden och linjära avbildningar.
 
 ## Seminarier: 
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarie%201.pdf">Seminarium 1</a> <br/> 
@@ -29,7 +31,6 @@ Kapitel 1.2. och 1.3.
 
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarium%202.pdf">Seminarium 2</a> <br/> 
 Kapitel 2.2./3.2./3.3.
-
 
 
 ## Annat:
