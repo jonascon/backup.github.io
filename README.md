@@ -32,6 +32,8 @@ Kapitel 1.2. och 1.3.
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarium%202.pdf">Seminarium 2</a> <br/> 
 Kapitel 2.2./3.2./3.3.
 
+<a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarium%203.pdf">Seminarium 3</a> <br/> 
+Determinanter, areor och volymer, linjärt oberoende.
 
 ## Annat:
  
