@@ -39,8 +39,8 @@ Kapitel 2.2./3.2./3.3.
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarium%203.pdf">Seminarium 3</a> <br/> 
 Determinanter, areor och volymer, linjärt oberoende.
 
-<a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%208.pdf">Seminarium 3</a> <br/> 
-Determinanter, areor och volymer, linjärt oberoende.
+<a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarium%204.pdf">Seminarium 4</a> <br/> 
+Linjära avbildningar.
 
 
 ## Annat:
