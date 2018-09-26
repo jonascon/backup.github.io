@@ -28,6 +28,8 @@ Egenvärden och linjära avbildningar.
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%208.pdf">Övning 8</a> <br/> 
 Linjära avbildningar och sammansättningar.
 
+<a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%209.pdf">Övning 9</a> <br/> 
+Bas och basbytesmatriser. Lite om dimensionssatsen. 
 
 ## Seminarier: 
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarie%201.pdf">Seminarium 1</a> <br/> 
