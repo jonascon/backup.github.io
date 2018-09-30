@@ -47,6 +47,10 @@ Determinanter, areor och volymer, linjärt oberoende.
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarium%204.pdf">Seminarium 4</a> <br/> 
 Linjära avbildningar.
 
+<a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarium%205.pdf">Seminarium 5</a> <br/> 
+Baser, projektioner och minsta kvadratmetoden.
+
+
 
 ## Annat:
  
