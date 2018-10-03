@@ -37,6 +37,10 @@ ON-grejer.
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%2011.pdf">Övning 11</a> <br/> 
 Egengrejer och diagonalisering.
 
+<a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%2012.pdf">Övning 12</a> <br/> 
+Kvadratiska former och diagonalisering.
+
+
 ## Seminarier: 
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarie%201.pdf">Seminarium 1</a> <br/> 
 Kapitel 1.2. och 1.3.
