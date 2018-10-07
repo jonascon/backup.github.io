@@ -57,7 +57,8 @@ Linjära avbildningar.
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarium%205.pdf">Seminarium 5</a> <br/> 
 Baser, projektioner och minsta kvadratmetoden.
 
-
+<a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarium%206.pdf">Seminarium 6</a> <br/> 
+Basbytesmatriser och diagonalisering.
 
 ## Annat:
  
