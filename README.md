@@ -43,6 +43,10 @@ Kvadratiska former och diagonalisering.
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%2013.pdf">Övning 13</a> <br/> 
 Allmänna vektorrum.
 
+<a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%2014.pdf">Övning 14</a> <br/> 
+Gamla tentauppgifter.
+
+
 ## Seminarier: 
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarie%201.pdf">Seminarium 1</a> <br/> 
 Kapitel 1.2. och 1.3.
