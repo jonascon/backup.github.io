@@ -40,7 +40,7 @@ Egengrejer och diagonalisering.
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%2012.pdf">Övning 12</a> <br/> 
 Kvadratiska former och diagonalisering.
 
-<a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%2012.pdf">Övning 13</a> <br/> 
+<a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%2013.pdf">Övning 13</a> <br/> 
 Allmänna vektorrum.
 
 ## Seminarier: 
