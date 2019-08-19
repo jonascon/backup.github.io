@@ -1,5 +1,14 @@
 # Välkommen! Här kommer jag försöka lägga upp mina anteckningar från övningarna samt seminarierna (i befintligt skick).
-## Övningar:
+
+## SF1661 Perspektiv på matematik
+
+### Övningar
+
+
+### Seminarier
+
+## SF1624 Algebra och geometri
+### Övningar
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%201.pdf">Övning 1</a> <br/> 
 Kapitel 1.2. och 1.3.
 
@@ -47,7 +56,7 @@ Allmänna vektorrum.
 Gamla tentauppgifter.
 
 
-## Seminarier: 
+### Seminarier 
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/Seminarie%201.pdf">Seminarium 1</a> <br/> 
 Kapitel 1.2. och 1.3.
 
@@ -68,7 +77,7 @@ Basbytesmatriser och diagonalisering.
 
 
 
-## Annat:
+## Annat
  
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/Polya.pdf">Pòlyas fyra steg</a> <br/> 
 Om matematisk problemlösning.
