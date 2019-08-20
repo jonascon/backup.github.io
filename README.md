@@ -1,5 +1,10 @@
 # Välkommen! Här kommer jag försöka lägga upp mina anteckningar från övningarna samt seminarierna (i befintligt skick).
 
+## Allmänt
+ 
+<a href="https://github.com/jonascon/jonascon.github.io/blob/master/polya.pdf">Pòlyas fyra steg</a> <br/> 
+Om matematisk problemlösning.
+
 ## SF1661 Perspektiv på matematik
 
 ### Övningar
@@ -77,7 +82,4 @@ Basbytesmatriser och diagonalisering.
 
 
 
-## Annat
- 
-<a href="https://github.com/jonascon/jonascon.github.io/blob/master/polya.pdf">Pòlyas fyra steg</a> <br/> 
-Om matematisk problemlösning.
+
