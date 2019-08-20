@@ -9,14 +9,14 @@ Kontakta mig på: conneryd@kth.se
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/polya.pdf">Pòlyas fyra steg</a> <br/> 
 Om matematisk problemlösning.
 
-## SF1661 Perspektiv på matematik
+## SF1661 Perspektiv på matematik - HT2019
 
 ### Övningar
 
 
 ### Seminarier
 
-## SF1624 Algebra och geometri
+## SF1624 Algebra och geometri - HT2018
 ### Övningar
 <a href="https://github.com/jonascon/jonascon.github.io/blob/master/%C3%96vning%201.pdf">Övning 1</a> <br/> 
 Kapitel 1.2. och 1.3.
