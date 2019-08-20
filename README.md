@@ -79,5 +79,5 @@ Basbytesmatriser och diagonalisering.
 
 ## Annat
  
-<a href="https://github.com/jonascon/jonascon.github.io/blob/master/Polya.pdf">Pòlyas fyra steg</a> <br/> 
+<a href="https://github.com/jonascon/jonascon.github.io/blob/master/polya.pdf">Pòlyas fyra steg</a> <br/> 
 Om matematisk problemlösning.
