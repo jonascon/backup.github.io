@@ -3,7 +3,7 @@
 # Välkommen till Jonas Conneryds hemsida för övningsanteckningar!
 Här kommer jag försöka lägga upp mina anteckningar från övningar samt seminarier (i befintligt skick) i de kurser jag är assistent i.
 
-Kontakta mig på: conneryd@kth.se
+Kontakta mig på: jonas.conneryd@cs.lth.se
 
 
 ## Allmänt
